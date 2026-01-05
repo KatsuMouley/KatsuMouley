@@ -11,8 +11,6 @@
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
   
-  ![Katsu Mouley's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)
-  
   <p align="left">
     <b>O que aprendi:</b> Integração hardware-software, leitura analógica de sensores e otimização de código para embarcados.
   </p>
@@ -59,3 +57,7 @@
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
+
+
+
+[![Katsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=katsumouley)](https://github.com/anuraghazra/github-readme-stats)
