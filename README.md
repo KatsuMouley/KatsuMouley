@@ -5,10 +5,6 @@
     <hr> 
 </div>
 
-<div align="left">
-  ![English](https://img.shields.io/badge/English-Advanced_(TOEIC_815)-blue?style=for-the-badge&logo=google-translate&logoColor=white)
-</div>
-
 <br>
 
 <div align="left">
