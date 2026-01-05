@@ -59,5 +59,4 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
 
 
-
-[![Katsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=katsumouley)](https://github.com/anuraghazra/github-readme-stats)
+![Katsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)
