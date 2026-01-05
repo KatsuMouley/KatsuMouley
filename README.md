@@ -58,5 +58,4 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
 ![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
 
-
-![Katsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula)
