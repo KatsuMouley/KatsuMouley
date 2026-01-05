@@ -11,7 +11,7 @@
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)](https://github.com/KatsuMouley/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)
   
   <p align="left">
     <b>O que aprendi:</b> Integração hardware-software, leitura analógica de sensores e otimização de código para embarcados.
