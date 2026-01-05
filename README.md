@@ -1,10 +1,13 @@
-
-![Meu Banner](header.svg)
 <div align:"center">
 <h3 align="left">:mortar_board: Software Student</h3>
 <h3 align="right">2026</h3>
 </div>
-<h1 align="left">Vitor Mougenot A.K.A Katsu Mouley</h1>
+<div>
+<h1 align="left">Vitor Mougenot</h1>
+<h4 align:"right">
+A.K.A: Katsu Mouley
+</h4>
+</div>
 <div align="center">
   
   <h4>⚡ Monitor de Voltagem com ESP32</h4>
