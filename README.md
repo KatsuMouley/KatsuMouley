@@ -3,8 +3,10 @@
 <h3 align="right">2026</h3>
 </div>
 <div>
-<h1 align="left">Vitor Mougenot</h1>
-<h4 align:"right">
+<h1 align="left">
+  Vitor Mougenot
+</h1>
+<h4 align="right">
 A.K.A: Katsu Mouley
 </h4>
 </div>
