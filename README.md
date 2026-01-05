@@ -1,72 +1,89 @@
-<div align:"center">
-<h3 align="left">:mortar_board: Software Engineer student</h3>
-<h3 align="right">2026</h3>
+<div align="center">
+  <h3 align="left">🎓 Software Engineering Student</h3>
+  <h3 align="right">2023 - 2027</h3> 
 </div>
-<div>
-<h1 align="left">
-  Vitor Mougenot
-</h1>
-<h4 align="right">
-A.K.A: Katsu Mouley
-</h4>
-</div>
-<div align="left">
+
+<div align="center">
+  <h1>Vitor Mougenot</h1>
+  <h4>A.K.A: Katsu Mouley</h4>
   
-  <h4>Sobre</h4>
+  ![English](https://img.shields.io/badge/English-Advanced_(TOEIC_815)-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+</div>
+
+<br>
+
+<div align="left">
+  <h3>👤 Sobre Mim</h3>
   <p>
-    Sistema IoT desenvolvido para monitoramento em tempo real.
-    <br/>
+    Estudante de <b>Engenharia de Software</b> na Universidade Positivo.<br>
+    Unindo a lógica da programação com fundamentos de <b>Design e Arte</b>.
+    Foco em desenvolvimento Fullstack e soluções IoT.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula&title_color=E535AB&icon_color=E535AB&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api/top-langs/?username=KatsuMouley&layout=compact&theme=dracula&title_color=E535AB&hide_border=true" />
+</div>
+
+<br>
+
+<h3>🚀 Projeto em Destaque</h3>
+<div align="left">
+  <h4>⚡ Monitor de Voltagem ESP32</h4>
+  <p>
+    Sistema IoT desenvolvido para monitoramento em tempo real.<br>
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
-  
-  ![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
 </div>
+
+<hr>
+
+<h3 align="center">💻 Tech Stack & Ferramentas</h3>
+
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula&title_color=E535AB&icon_color=E535AB&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api/top-langs/?username=KatsuMouley&layout=compact&theme=dracula&title_color=E535AB&hide_border=true" />
-
+  <h4>Front-end</h4>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
-<br/>
 
-<h3 align="center">Conhecimento e experiência em:</h3>
-<h3>💻 &nbsp;Front-end:</h3>
+<div align="center">
+  <h4>Back-End & Core</h4>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<div align="center">
+  <h4>Database</h4>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+</div>
 
-<h3>⚙️ &nbsp;DB:</h3>
+<div align="center">
+  <h4>Design & Creative</h4>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=black">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)!
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+<br>
 
-<h3>⚙️ &nbsp;Back-End:</h3>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-<h3>🤝 &nbsp;Colab tools:</h3>
-
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
-![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KatsuMouley&style=flat-square&label=Profile+Views&color=E535AB" alt="Profile Views"/>
+</div>
