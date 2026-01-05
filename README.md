@@ -57,4 +57,4 @@
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h3>🤝 &nbsp;Ferramentas de colaboração:</h3>
-![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=326dc7)
+![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
