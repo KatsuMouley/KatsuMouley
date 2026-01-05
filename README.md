@@ -23,7 +23,7 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula&title_color=E535AB&icon_color=E535AB&hide_border=true" />
   <img height="180em" src="https://github-readme-stats-one-pi-50.vercel.app/api/top-langs/?username=KatsuMouley&layout=compact&theme=dracula&title_color=E535AB&hide_border=true" />
 </div>
@@ -41,9 +41,9 @@
 
 <hr>
 
-<h3 align="center">💻 Tech Stack & Ferramentas</h3>
+<h3 align="left">💻 Tech Stack & Ferramentas</h3>
 
-<div align="center">
+<div align="left">
   <h4>Front-end</h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
   <h4>Back-End & Core</h4>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-<div align="center">
+<div align="left">
   <h4>Database</h4>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 
-<div align="center">
+<div align="left">
   <h4>Design, 3D & Creative</h4>
   
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white">
@@ -90,6 +90,6 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=KatsuMouley&style=flat-square&label=Profile+Views&color=E535AB" alt="Profile Views"/>
 </div>
