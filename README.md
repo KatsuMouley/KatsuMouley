@@ -1,5 +1,5 @@
 <div align:"center">
-<h3 align="left">:mortar_board: Software Student</h3>
+<h3 align="left">:mortar_board: Software Engineer student</h3>
 <h3 align="right">2026</h3>
 </div>
 <div>
