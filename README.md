@@ -1,1 +1,1 @@
-[![Suas Stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula&title_color=E535AB&icon_color=E535AB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Suas Stats](https://github-readme-stats-one-pi-50.vercel.app/api?username=KatsuMouley&show_icons=true&theme=dracula&title_color=E535AB&icon_color=E535AB&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
