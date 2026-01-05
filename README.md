@@ -10,24 +10,14 @@
 A.K.A: Katsu Mouley
 </h4>
 </div>
-<div align="center">
+<div align="left">
   
-  <h4>⚡ Monitor de Voltagem com ESP32</h4>
+  <h4>Sobre</h4>
   <p>
     Sistema IoT desenvolvido para monitoramento em tempo real.
     <br/>
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
-  
-  <p align="left">
-    <b>O que aprendi:</b> Integração hardware-software, leitura analógica de sensores e otimização de código para embarcados.
-  </p>
-  
-  <a href="LINK_DO_REPOSITORIO_DO_ESP32">
-  
-  </a>
-    <video src="https://youtu.be/9_9Nqckdfm4"></video>
-
 </div>
 <div align="center">
   
@@ -38,16 +28,7 @@ A.K.A: Katsu Mouley
 </div>
 <br/>
 
-<h3 align="center">🛠️ Outros Experimentos</h3>
-
-| Projeto | Foco | Status |
-| :--- | :--- | :--- |
-| **Design Labs** | `UI/UX` `Estudos` | 🟡 Retomando a prática |
-| **Scripts Diversos** | `Lógica` `Automação` | 🟢 Concluídos |
-
-
-
-<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3 align="center">Conhecimento e experiência em</h3>
 <h3>💻 &nbsp;Front-end:</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
