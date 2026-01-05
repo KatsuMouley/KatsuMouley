@@ -1,6 +1,6 @@
 <h3 align="left">:mortar_board: Software Student</h3>
-<h2 align="right">2026</h3>
-<h1 align="left">Vitor Mougenot A.K.A Katsu Mouley</h3>
+<h2 align="right">2026</h2>
+<h1 align="left">Vitor Mougenot A.K.A Katsu Mouley</h1>
 <div align="center">
   
   <h4>⚡ Monitor de Voltagem com ESP32</h4>
