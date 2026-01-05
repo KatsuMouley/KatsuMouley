@@ -1,11 +1,11 @@
 <div align="center">
   <h3 align="left">Vitor Mougenot</h3>
-  <h4>A.K.A: Katsu Mouley</h4>
-  <h5 align="right">2023 - 2027</h5> 
+  <h4 align="left">A.K.A: Katsu Mouley</h4>
+  <h5 align="right">2023 - 2027</h5>
+    <hr> 
 </div>
 
 <div align="left">
-  <h1>Vitor Mougenot</h1>
   ![English](https://img.shields.io/badge/English-Advanced_(TOEIC_815)-blue?style=for-the-badge&logo=google-translate&logoColor=white)
 </div>
 
