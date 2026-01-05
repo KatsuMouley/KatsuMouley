@@ -3,9 +3,9 @@
   <h3 align="right">2023 - 2027</h3> 
 </div>
 
-<div align="center">
+<div align="left">
   <h1>Vitor Mougenot</h1>
-  <h4>A.K.A: Katsu Mouley</h4>
+  <h4 align="right">A.K.A: Katsu Mouley</h4>
   
   ![English](https://img.shields.io/badge/English-Advanced_(TOEIC_815)-blue?style=for-the-badge&logo=google-translate&logoColor=white)
 </div>
