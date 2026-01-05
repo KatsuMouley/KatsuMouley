@@ -11,6 +11,8 @@
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuMouley)](https://github.com/anuraghazra/github-readme-stats)
+  
   <p align="left">
     <b>O que aprendi:</b> Integração hardware-software, leitura analógica de sensores e otimização de código para embarcados.
   </p>
@@ -42,10 +44,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
-![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
@@ -53,9 +51,11 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 <h3>🤝 &nbsp;Ferramentas de colaboração:</h3>
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)
+![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)
