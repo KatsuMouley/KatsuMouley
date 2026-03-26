@@ -34,12 +34,15 @@
 <h3>🚀 Projeto em Destaque</h3>
 <div align="left">
   <h4>⚡ Monitor de Voltagem ESP32</h4>
-  <p>
-    Sistema IoT desenvolvido para monitoramento em tempo real.
-    <br> 
-    <div>[Assista ao vídeo](https://youtu.be/9_9Nqckdfm4) </div> <br>
-    <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
-  </p>
+<p>
+  Sistema IoT desenvolvido para monitoramento em tempo real.
+  <br> 
+  <div>
+    <a href="https://www.behance.net/bb650">Meus Designs</a>
+  </div> 
+  <br>
+  <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
+</p>
 </div>
 
 <hr>
