@@ -1,6 +1,6 @@
 <div align="center">
-  <h3 align="left">Vitor Mougenot</h3>
-  <h4 align="left">A.K.A: Katsu Mouley</h4>
+  <h3 align="left">Vitor Mougenot
+  <h4 align="left">A.K.A: Katsu Mouley</h4></h3>
   <h5 align="right">2023 - 2027</h5>
     <hr> 
 </div>
@@ -14,6 +14,10 @@
     Unindo a lógica da programação com fundamentos de <b>Design e Arte</b>.
     Foco em desenvolvimento Fullstack e soluções IoT.
   </p>
+</div>
+
+<div> 
+  [Meus Designs](https://www.behance.net/bb650)
 </div>
 
 <br>
@@ -30,7 +34,7 @@
   <h4>⚡ Monitor de Voltagem ESP32</h4>
   <p>
     Sistema IoT desenvolvido para monitoramento em tempo real.<br>
-    https://youtu.be/9_9Nqckdfm4 <br>
+    [Assista ao vídeo](https://youtu.be/9_9Nqckdfm4) <br>
     <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
   </p>
 </div>
