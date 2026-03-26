@@ -38,7 +38,7 @@
   Sistema IoT desenvolvido para monitoramento em tempo real.
   <br> 
   <div>
-    <a href="https://www.behance.net/bb650">Meus Designs</a>
+    <a href="https://youtu.be/9_9Nqckdfm4">Assista ao vídeo</a>
   </div> 
   <br>
   <code>C++</code> <code>ESP32</code> <code>Hardware</code> <code>Sensores</code>
